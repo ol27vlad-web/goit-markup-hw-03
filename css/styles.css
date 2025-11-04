@@ -11,6 +11,13 @@ list-style: none;
 a {
     text-decoration: none;
 }
+.container {
+    max-width:
+        padding-left: 
+        padding-right: 
+        margin-left:
+         margin-right:
+}
 /* #region head */
 
 .main-logo {
